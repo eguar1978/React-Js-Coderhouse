@@ -37,7 +37,7 @@ function Nav(){
                     </div>
                 </div>
 
-                <div className="container h-32 mx-auto bg-blue-200 text-gray-400 flex items-center justify-between md:flex lg:flex xl:flex hidden">
+                <div className="container h-32 mx-auto bg-blue-300 text-gray-400 flex items-center justify-between md:flex lg:flex xl:flex hidden">
                     <div className="flex items-center">
                         <img className="p-2 h-24 object-cover" src={logo} alt="Logo"/>
                     </div>
